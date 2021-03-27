@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mplanckensteiner/mplanckensteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Empanapp my second app on the App Store
@@ -11,3 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](www.instagram.com/mplanckensteiner)
 - ⚡ Fun fact: ... I am extremly positive and always with motivation to learn new things!
 -->
+
+<!--
+**mplanckensteiner/mplanckensteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
