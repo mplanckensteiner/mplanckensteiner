@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Miguel 👋
 
 Here are some ideas to get you started:
 
@@ -8,7 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](https://www.instagram.com/mplanckensteiner/)
 - ⚡ Fun fact: ... I am extremly positive and always with motivation to learn new things!
 
+### Talk with me:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 
 <!--
 **mplanckensteiner/mplanckensteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
