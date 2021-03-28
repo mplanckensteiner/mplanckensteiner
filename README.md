@@ -1,8 +1,8 @@
-### Hi there, I'm Miguel 👋
+### Hi, I'm Miguel 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Empanapp my second app on the [AppStore]
+- 🔭 I’m currently working on Empanapp my second app on the [App Store]
 - 🌱 I’m currently learning SwiftUI and improving my knowledge in Core Data
 - 💬 Ask me about... my skills
 - 📫 How to reach me: [instagram]
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 <br />
 
 
-[AppStore]: https://apps.apple.com/app/empanapp/id1551611867
+[App Store]: https://apps.apple.com/app/empanapp/id1551611867
 [instagram]: https://www.instagram.com/mplanckensteiner/
 [linkedin]: https://www.linkedin.com/in/miguelplanckensteiner/
