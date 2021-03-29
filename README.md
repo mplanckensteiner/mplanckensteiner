@@ -8,7 +8,7 @@ At the moment I am working on [Empanapp](https://apps.apple.com/app/empanapp/id1
 - 📫 How to reach me: mplanckensteiner@hotmail.com
 - ⚡ Fun fact: I play videogames (Nintendo Switch and Xbox)
 
-## Talk with me:
+## Contact Me:
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelplanckensteiner/) [![Mail Badge](https://img.shields.io/badge/-@mplanckensteiner-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mplanckensteiner/)
 <br />
 
