@@ -1,6 +1,6 @@
 ## Hi I'm Miguel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a Junior iOS Developer currently living in Berlin.
+I am a Junior iOS Developer living in Berlin.
 
 At the moment I am working on [Empanapp](https://apps.apple.com/app/empanapp/id1551611867) my personal project launched on the App Store 👨🏽‍💻.
 
